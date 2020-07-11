@@ -1,2 +1,2 @@
 # MSAsites
-A site dev package
+A site dev package for MSAs
